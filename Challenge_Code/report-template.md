@@ -1,4 +1,4 @@
-# Module 12 Report Template
+# Module 12 Report
 
 ## Overview of the Analysis
 
